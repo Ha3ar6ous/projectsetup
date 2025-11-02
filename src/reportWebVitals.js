@@ -27,6 +27,48 @@ export default reportWebVitals;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*
 1) 
 Type 1 Code : CRUD / Shipping / Banking
@@ -341,6 +383,18 @@ app.listen(5000, () => console.log('Server running on http://localhost:5000'))
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 2) 
 Type 2 Code : Ecommerce / Inventory / Food : Login, add to cart, order
 app.js 
@@ -589,6 +643,18 @@ app.listen(5000, () => {
   console.log('Backend → http://localhost:5000')
   console.log('Visit /seed ONCE → http://localhost:5000/seed')
 })
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
